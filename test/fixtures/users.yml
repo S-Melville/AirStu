@@ -1,0 +1,11 @@
+koce:
+  fullname: Konstantin Milchev
+  email: michael@example.com
+  admin: true
+  confirmed_at: <%= Time.zone.now %>
+  id: 1
+
+boce:
+  fullname: Teodor Milchev
+  email: duchess@example.gov
+  confirmed_at: <%= Time.zone.now %>
